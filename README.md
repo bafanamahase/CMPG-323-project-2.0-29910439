@@ -27,6 +27,10 @@ The user must register an admin user because it is the only role that is authori
 ### Logging in:
 The user must click on the login button and insert the newly registered credentials.After logging in the user will receive the token. That token must be saved as will be used to access the tables since this system uses a tokeen based security.
 
+### Link to API on Azure
+https://portal.azure.com/#@nwuac.onmicrosoft.com/resource/subscriptions/56721653-f903-47eb-a452-d0001d356419/resourceGroups/Project2-29910439/overview
+
+
 ### Reference List
 Muller, J. 2023. Project 2 – ASP.NET Core guidance documentation. Unpublished lecture notes on efundi. Vanderbijl: NWU
 
